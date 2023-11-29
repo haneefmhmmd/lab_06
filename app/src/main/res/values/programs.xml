@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="program_names">
+        <item>Software Engineering Technology</item>
+        <item>Cyber Security</item>
+        <item>Web Development</item>
+        <item>Data Science</item>
+        <item>Network Administration</item>
+        <item>Artificial Intelligence</item>
+        <item>Game Development</item>
+        <item>Database Management</item>
+        <item>Mobile App Development</item>
+        <item>UX/UI Design</item>
+    </string-array>
+
+    <string-array name="program_descriptions">
+    <item>This 3-year course provides a comprehensive knowledge of the software field. Following are some of the SEM4 courses of this program:\n
+        \n1. Java Programming\n
+        2. Mobile Application Development\n
+        3. Data Structures and Algorithms\n
+        4. Software Engineering Principles\n
+        5. Database Management\n
+    </item>
+        <item>This 1-year course provides a comprehensive knowledge of the cyber field. Following are some of the SEM4 courses of this program:\n
+        \n1. Cybersecurity Fundamentals\n
+        2. Network Security\n
+        3. Ethical Hacking\n
+        4. Digital Forensics\n
+        5. Security Policies and Procedures\n
+    </item>
+        <item>This program focuses on web development technologies such as HTML, CSS, JavaScript, and more. Following are some of the SEM4 courses of this program:\n
+        \n1. HTML and CSS Basics\n
+        2. JavaScript Fundamentals\n
+        3. Frontend Frameworks\n
+        4. Backend Development\n
+        5. Web Application Security\n
+    </item>
+        <item>Explore the world of data through courses on statistics, machine learning, and data analysis. Following are some of the SEM4 courses of this program:\n
+        \n1. Statistics and Probability\n
+        2. Machine Learning Fundamentals\n
+        3. Data Visualization\n
+        4. Big Data Analytics\n
+        5. Natural Language Processing\n
+    </item>
+        <item>Learn the essentials of network administration and security practices. Following are some of the SEM4 courses of this program:\n
+       \n1. Networking Fundamentals\n
+        2. Network Configuration and Troubleshooting\n
+        3. Network Security Principles\n
+        4. Cloud Networking\n
+        5. Virtualization Technologies\n
+    </item>
+        <item>Dive into the field of AI with courses on machine learning and natural language processing. Following are some of the SEM4 courses of this program:\n
+        \n1. Introduction to Artificial Intelligence\n
+        2. Machine Learning Algorithms\n
+        3. Neural Networks and Deep Learning\n
+        4. Computer Vision\n
+        5. Natural Language Processing\n
+    </item>
+        <item>Create your own games with courses on game design, graphics, and programming. Following are some of the SEM4 courses of this program:\n
+        \n1. Game Design Principles\n
+        2. Graphics and Animation for Games\n
+        3. Game Development with Unity\n
+        4. Game Physics and Mechanics\n
+        5. Multiplayer Game Development\n
+    </item>
+        <item>Gain expertise in database management systems and SQL. Following are some of the SEM4 courses of this program:\n
+        \n1. Introduction to Databases\n
+        2. SQL Fundamentals\n
+        3. Database Design and Modeling\n
+        4. Advanced Database Concepts\n
+        5. NoSQL Databases\n
+    </item>
+        <item>Learn to develop mobile apps for various platforms using popular frameworks. Following are some of the SEM4 courses of this program:\n
+        \n1. Mobile App Development Fundamentals\n
+        2. Android App Development\n
+        3. iOS App Development with Swift\n
+        4. Cross-Platform App Development\n
+        5. App Deployment and Distribution\n
+    </item>
+        <item>Focus on user experience (UX) and user interface (UI) design principles. Following are some of the SEM4 courses of this program:\n
+        \n1. Introduction to UX/UI Design\n
+        2. User Research and Usability Testing\n
+        3. Interaction Design\n
+        4. Visual Design Principles\n
+        5. Prototyping and Wireframing\n
+    </item>
+    </string-array>
+
+</resources>
